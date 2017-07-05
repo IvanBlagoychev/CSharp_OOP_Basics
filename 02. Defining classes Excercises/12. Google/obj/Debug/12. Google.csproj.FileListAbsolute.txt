@@ -1,0 +1,6 @@
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\12. Google\bin\Debug\_12.Google.exe.config
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\12. Google\bin\Debug\_12.Google.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\12. Google\bin\Debug\_12.Google.pdb
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\12. Google\obj\Debug\12. Google.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\12. Google\obj\Debug\_12.Google.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\12. Google\obj\Debug\_12.Google.pdb

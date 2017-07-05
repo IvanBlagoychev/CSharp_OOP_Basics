@@ -1,0 +1,6 @@
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\10. Car Salesman\bin\Debug\_10.Car_Salesman.exe.config
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\10. Car Salesman\bin\Debug\_10.Car_Salesman.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\10. Car Salesman\bin\Debug\_10.Car_Salesman.pdb
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\10. Car Salesman\obj\Debug\10. Car Salesman.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\10. Car Salesman\obj\Debug\_10.Car_Salesman.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\10. Car Salesman\obj\Debug\_10.Car_Salesman.pdb

@@ -1,0 +1,6 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\03. Encapsulation Lab\04. Team\bin\Debug\_04.Team.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\03. Encapsulation Lab\04. Team\bin\Debug\_04.Team.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\03. Encapsulation Lab\04. Team\bin\Debug\_04.Team.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\03. Encapsulation Lab\04. Team\obj\Debug\04. Team.csprojResolveAssemblyReference.cache
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\03. Encapsulation Lab\04. Team\obj\Debug\_04.Team.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\03. Encapsulation Lab\04. Team\obj\Debug\_04.Team.pdb

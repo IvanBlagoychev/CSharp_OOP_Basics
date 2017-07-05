@@ -1,0 +1,6 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\04. Encapsulation Exercises\03. Animal Farm\bin\Debug\_03.Animal_Farm.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\04. Encapsulation Exercises\03. Animal Farm\bin\Debug\_03.Animal_Farm.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\04. Encapsulation Exercises\03. Animal Farm\bin\Debug\_03.Animal_Farm.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\04. Encapsulation Exercises\03. Animal Farm\obj\Debug\03. Animal Farm.csprojResolveAssemblyReference.cache
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\04. Encapsulation Exercises\03. Animal Farm\obj\Debug\_03.Animal_Farm.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\04. Encapsulation Exercises\03. Animal Farm\obj\Debug\_03.Animal_Farm.pdb

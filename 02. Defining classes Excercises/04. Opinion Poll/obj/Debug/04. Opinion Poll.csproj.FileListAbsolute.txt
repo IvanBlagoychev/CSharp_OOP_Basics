@@ -1,0 +1,5 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\04. Opinion Poll\bin\Debug\_04.Opinion_Poll.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\04. Opinion Poll\bin\Debug\_04.Opinion_Poll.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\04. Opinion Poll\bin\Debug\_04.Opinion_Poll.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\04. Opinion Poll\obj\Debug\_04.Opinion_Poll.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\04. Opinion Poll\obj\Debug\_04.Opinion_Poll.pdb

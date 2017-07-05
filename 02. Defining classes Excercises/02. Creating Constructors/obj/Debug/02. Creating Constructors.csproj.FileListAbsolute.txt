@@ -1,0 +1,5 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\02. Creating Constructors\bin\Debug\_02.Creating_Constructors.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\02. Creating Constructors\bin\Debug\_02.Creating_Constructors.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\02. Creating Constructors\bin\Debug\_02.Creating_Constructors.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\02. Creating Constructors\obj\Debug\_02.Creating_Constructors.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\02. Creating Constructors\obj\Debug\_02.Creating_Constructors.pdb

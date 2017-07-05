@@ -1,0 +1,5 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\03. Encapsulation Lab\02. Salary\bin\Debug\_02.Salary.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\03. Encapsulation Lab\02. Salary\bin\Debug\_02.Salary.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\03. Encapsulation Lab\02. Salary\bin\Debug\_02.Salary.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\03. Encapsulation Lab\02. Salary\obj\Debug\_02.Salary.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\03. Encapsulation Lab\02. Salary\obj\Debug\_02.Salary.pdb

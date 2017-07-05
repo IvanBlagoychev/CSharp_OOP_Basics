@@ -1,0 +1,6 @@
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\04. Encapsulation Exercises\04. Shopping Spree\bin\Debug\_04.Shopping_Spree.exe.config
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\04. Encapsulation Exercises\04. Shopping Spree\bin\Debug\_04.Shopping_Spree.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\04. Encapsulation Exercises\04. Shopping Spree\bin\Debug\_04.Shopping_Spree.pdb
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\04. Encapsulation Exercises\04. Shopping Spree\obj\Debug\04. Shopping Spree.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\04. Encapsulation Exercises\04. Shopping Spree\obj\Debug\_04.Shopping_Spree.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\04. Encapsulation Exercises\04. Shopping Spree\obj\Debug\_04.Shopping_Spree.pdb

@@ -1,0 +1,5 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\04. Encapsulation Exercises\02. Class Box Data Validation\bin\Debug\_02.Class_Box_Data_Validation.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\04. Encapsulation Exercises\02. Class Box Data Validation\bin\Debug\_02.Class_Box_Data_Validation.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\04. Encapsulation Exercises\02. Class Box Data Validation\bin\Debug\_02.Class_Box_Data_Validation.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\04. Encapsulation Exercises\02. Class Box Data Validation\obj\Debug\_02.Class_Box_Data_Validation.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\04. Encapsulation Exercises\02. Class Box Data Validation\obj\Debug\_02.Class_Box_Data_Validation.pdb

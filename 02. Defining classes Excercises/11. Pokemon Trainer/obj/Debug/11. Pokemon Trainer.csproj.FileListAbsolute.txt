@@ -1,0 +1,6 @@
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\11. Pokemon Trainer\bin\Debug\_11.Pokemon_Trainer.exe.config
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\11. Pokemon Trainer\bin\Debug\_11.Pokemon_Trainer.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\11. Pokemon Trainer\bin\Debug\_11.Pokemon_Trainer.pdb
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\11. Pokemon Trainer\obj\Debug\11. Pokemon Trainer.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\11. Pokemon Trainer\obj\Debug\_11.Pokemon_Trainer.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\11. Pokemon Trainer\obj\Debug\_11.Pokemon_Trainer.pdb

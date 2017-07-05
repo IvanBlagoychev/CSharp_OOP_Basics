@@ -1,0 +1,6 @@
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\01. Defining classes Lab\04. Person Class\bin\Debug\_04.Person_Class.exe.config
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\01. Defining classes Lab\04. Person Class\bin\Debug\_04.Person_Class.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\01. Defining classes Lab\04. Person Class\bin\Debug\_04.Person_Class.pdb
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\01. Defining classes Lab\04. Person Class\obj\Debug\04. Person Class.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\01. Defining classes Lab\04. Person Class\obj\Debug\_04.Person_Class.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\01. Defining classes Lab\04. Person Class\obj\Debug\_04.Person_Class.pdb

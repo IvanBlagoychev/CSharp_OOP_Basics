@@ -1,0 +1,6 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\04. Encapsulation Exercises\01. Class Box\bin\Debug\_01.Class_Box.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\04. Encapsulation Exercises\01. Class Box\bin\Debug\_01.Class_Box.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\04. Encapsulation Exercises\01. Class Box\bin\Debug\_01.Class_Box.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\04. Encapsulation Exercises\01. Class Box\obj\Debug\01. Class Box.csprojResolveAssemblyReference.cache
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\04. Encapsulation Exercises\01. Class Box\obj\Debug\_01.Class_Box.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\04. Encapsulation Exercises\01. Class Box\obj\Debug\_01.Class_Box.pdb

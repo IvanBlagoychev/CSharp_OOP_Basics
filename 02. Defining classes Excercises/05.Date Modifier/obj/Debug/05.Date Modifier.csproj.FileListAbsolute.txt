@@ -1,0 +1,5 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\05.Date Modifier\bin\Debug\05.Date Modifier.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\05.Date Modifier\bin\Debug\05.Date Modifier.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\05.Date Modifier\bin\Debug\05.Date Modifier.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\05.Date Modifier\obj\Debug\05.Date Modifier.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\05.Date Modifier\obj\Debug\05.Date Modifier.pdb

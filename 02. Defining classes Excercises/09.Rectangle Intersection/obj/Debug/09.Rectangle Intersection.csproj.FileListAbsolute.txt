@@ -1,0 +1,6 @@
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\09.Rectangle Intersection\bin\Debug\09.Rectangle Intersection.exe.config
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\09.Rectangle Intersection\bin\Debug\09.Rectangle Intersection.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\09.Rectangle Intersection\bin\Debug\09.Rectangle Intersection.pdb
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\09.Rectangle Intersection\obj\Debug\09.Rectangle Intersection.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\09.Rectangle Intersection\obj\Debug\09.Rectangle Intersection.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\09.Rectangle Intersection\obj\Debug\09.Rectangle Intersection.pdb

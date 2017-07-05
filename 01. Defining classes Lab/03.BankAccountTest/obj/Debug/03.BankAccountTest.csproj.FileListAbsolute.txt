@@ -1,0 +1,6 @@
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\01. Defining classes Lab\03.BankAccountTest\bin\Debug\03.BankAccountTest.exe.config
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\01. Defining classes Lab\03.BankAccountTest\bin\Debug\03.BankAccountTest.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\01. Defining classes Lab\03.BankAccountTest\bin\Debug\03.BankAccountTest.pdb
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\01. Defining classes Lab\03.BankAccountTest\obj\Debug\03.BankAccountTest.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\01. Defining classes Lab\03.BankAccountTest\obj\Debug\03.BankAccountTest.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\01. Defining classes Lab\03.BankAccountTest\obj\Debug\03.BankAccountTest.pdb

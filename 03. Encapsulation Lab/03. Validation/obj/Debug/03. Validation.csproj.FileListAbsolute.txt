@@ -1,0 +1,5 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\03. Encapsulation Lab\03. Validation\bin\Debug\_03.Validation.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\03. Encapsulation Lab\03. Validation\bin\Debug\_03.Validation.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\03. Encapsulation Lab\03. Validation\bin\Debug\_03.Validation.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\03. Encapsulation Lab\03. Validation\obj\Debug\_03.Validation.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\03. Encapsulation Lab\03. Validation\obj\Debug\_03.Validation.pdb

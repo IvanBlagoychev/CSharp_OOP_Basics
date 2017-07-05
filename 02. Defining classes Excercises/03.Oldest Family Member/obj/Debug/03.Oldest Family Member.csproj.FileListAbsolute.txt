@@ -1,0 +1,5 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\03.Oldest Family Member\bin\Debug\03.Oldest Family Member.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\03.Oldest Family Member\bin\Debug\03.Oldest Family Member.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\03.Oldest Family Member\bin\Debug\03.Oldest Family Member.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\03.Oldest Family Member\obj\Debug\03.Oldest Family Member.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\03.Oldest Family Member\obj\Debug\03.Oldest Family Member.pdb

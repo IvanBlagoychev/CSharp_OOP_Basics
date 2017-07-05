@@ -1,0 +1,6 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\06. Company Roster\bin\Debug\_06.Company_Roster.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\06. Company Roster\bin\Debug\_06.Company_Roster.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\06. Company Roster\bin\Debug\_06.Company_Roster.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\06. Company Roster\obj\Debug\06. Company Roster.csprojResolveAssemblyReference.cache
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\06. Company Roster\obj\Debug\_06.Company_Roster.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\02. Defining classes Excercises\06. Company Roster\obj\Debug\_06.Company_Roster.pdb
