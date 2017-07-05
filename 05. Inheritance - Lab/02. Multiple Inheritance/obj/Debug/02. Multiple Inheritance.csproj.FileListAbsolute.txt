@@ -1,0 +1,5 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\05. Inheritance - Lab\02. Multiple Inheritance\bin\Debug\_02.Multiple_Inheritance.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\05. Inheritance - Lab\02. Multiple Inheritance\bin\Debug\_02.Multiple_Inheritance.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\05. Inheritance - Lab\02. Multiple Inheritance\bin\Debug\_02.Multiple_Inheritance.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\05. Inheritance - Lab\02. Multiple Inheritance\obj\Debug\_02.Multiple_Inheritance.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\05. Inheritance - Lab\02. Multiple Inheritance\obj\Debug\_02.Multiple_Inheritance.pdb

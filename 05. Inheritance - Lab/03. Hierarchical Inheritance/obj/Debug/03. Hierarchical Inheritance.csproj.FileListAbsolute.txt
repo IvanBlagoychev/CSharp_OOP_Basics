@@ -1,0 +1,5 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\05. Inheritance - Lab\03. Hierarchical Inheritance\bin\Debug\_03.Hierarchical_Inheritance.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\05. Inheritance - Lab\03. Hierarchical Inheritance\bin\Debug\_03.Hierarchical_Inheritance.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\05. Inheritance - Lab\03. Hierarchical Inheritance\bin\Debug\_03.Hierarchical_Inheritance.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\05. Inheritance - Lab\03. Hierarchical Inheritance\obj\Debug\_03.Hierarchical_Inheritance.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\05. Inheritance - Lab\03. Hierarchical Inheritance\obj\Debug\_03.Hierarchical_Inheritance.pdb
