@@ -1,0 +1,6 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\06. Inheritance - Exercises\04. Online Radio Database\bin\Debug\_04.Online_Radio_Database.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\06. Inheritance - Exercises\04. Online Radio Database\bin\Debug\_04.Online_Radio_Database.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\06. Inheritance - Exercises\04. Online Radio Database\bin\Debug\_04.Online_Radio_Database.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\06. Inheritance - Exercises\04. Online Radio Database\obj\Debug\04. Online Radio Database.csprojResolveAssemblyReference.cache
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\06. Inheritance - Exercises\04. Online Radio Database\obj\Debug\_04.Online_Radio_Database.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\06. Inheritance - Exercises\04. Online Radio Database\obj\Debug\_04.Online_Radio_Database.pdb

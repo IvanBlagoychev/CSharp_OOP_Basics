@@ -1,0 +1,6 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\06. Inheritance - Exercises\01. Person\obj\Debug\01. Person.csprojResolveAssemblyReference.cache
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\06. Inheritance - Exercises\01. Person\bin\Debug\_01.Person.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\06. Inheritance - Exercises\01. Person\bin\Debug\_01.Person.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\06. Inheritance - Exercises\01. Person\bin\Debug\_01.Person.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\06. Inheritance - Exercises\01. Person\obj\Debug\_01.Person.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\06. Inheritance - Exercises\01. Person\obj\Debug\_01.Person.pdb

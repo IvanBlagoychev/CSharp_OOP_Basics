@@ -1,0 +1,6 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\06. Inheritance - Exercises\02. Book Shop\obj\Debug\02. Book Shop.csprojResolveAssemblyReference.cache
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\06. Inheritance - Exercises\02. Book Shop\bin\Debug\_02.Book_Shop.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\06. Inheritance - Exercises\02. Book Shop\bin\Debug\_02.Book_Shop.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\06. Inheritance - Exercises\02. Book Shop\bin\Debug\_02.Book_Shop.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\06. Inheritance - Exercises\02. Book Shop\obj\Debug\_02.Book_Shop.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\06. Inheritance - Exercises\02. Book Shop\obj\Debug\_02.Book_Shop.pdb

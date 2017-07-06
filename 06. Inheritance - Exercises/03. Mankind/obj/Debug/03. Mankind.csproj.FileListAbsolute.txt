@@ -1,0 +1,6 @@
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\06. Inheritance - Exercises\03. Mankind\bin\Debug\_03.Mankind.exe.config
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\06. Inheritance - Exercises\03. Mankind\bin\Debug\_03.Mankind.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\06. Inheritance - Exercises\03. Mankind\bin\Debug\_03.Mankind.pdb
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\06. Inheritance - Exercises\03. Mankind\obj\Debug\03. Mankind.csprojResolveAssemblyReference.cache
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\06. Inheritance - Exercises\03. Mankind\obj\Debug\_03.Mankind.exe
+c:\users\ivan blagoychev\documents\visual studio 2017\Projects\06. Inheritance - Exercises\03. Mankind\obj\Debug\_03.Mankind.pdb
