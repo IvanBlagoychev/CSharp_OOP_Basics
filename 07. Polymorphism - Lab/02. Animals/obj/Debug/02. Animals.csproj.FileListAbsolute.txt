@@ -1,0 +1,6 @@
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\07. Polymorphism - Lab\02. Animals\bin\Debug\_02.Animals.exe.config
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\07. Polymorphism - Lab\02. Animals\bin\Debug\_02.Animals.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\07. Polymorphism - Lab\02. Animals\bin\Debug\_02.Animals.pdb
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\07. Polymorphism - Lab\02. Animals\obj\Debug\02. Animals.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\07. Polymorphism - Lab\02. Animals\obj\Debug\_02.Animals.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\07. Polymorphism - Lab\02. Animals\obj\Debug\_02.Animals.pdb
