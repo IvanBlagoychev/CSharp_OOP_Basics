@@ -1,0 +1,6 @@
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\Exam Prep I - NFS\Exam Prep I - NFS\bin\Debug\Exam Prep I - NFS.exe.config
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\Exam Prep I - NFS\Exam Prep I - NFS\bin\Debug\Exam Prep I - NFS.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\Exam Prep I - NFS\Exam Prep I - NFS\bin\Debug\Exam Prep I - NFS.pdb
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\Exam Prep I - NFS\Exam Prep I - NFS\obj\Debug\Exam Prep I - NFS.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\Exam Prep I - NFS\Exam Prep I - NFS\obj\Debug\Exam Prep I - NFS.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\Exam Prep I - NFS\Exam Prep I - NFS\obj\Debug\Exam Prep I - NFS.pdb
