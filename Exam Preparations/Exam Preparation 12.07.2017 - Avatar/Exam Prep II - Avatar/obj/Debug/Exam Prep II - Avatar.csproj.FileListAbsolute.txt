@@ -1,0 +1,6 @@
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\Exam Prep II - Avatar\Exam Prep II - Avatar\bin\Debug\Exam Prep II - Avatar.exe.config
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\Exam Prep II - Avatar\Exam Prep II - Avatar\bin\Debug\Exam Prep II - Avatar.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\Exam Prep II - Avatar\Exam Prep II - Avatar\bin\Debug\Exam Prep II - Avatar.pdb
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\Exam Prep II - Avatar\Exam Prep II - Avatar\obj\Debug\Exam Prep II - Avatar.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\Exam Prep II - Avatar\Exam Prep II - Avatar\obj\Debug\Exam Prep II - Avatar.exe
+C:\Users\Ivan Blagoychev\documents\visual studio 2017\Projects\Exam Prep II - Avatar\Exam Prep II - Avatar\obj\Debug\Exam Prep II - Avatar.pdb
